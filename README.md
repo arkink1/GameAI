@@ -1,4 +1,4 @@
-# AI algorithms for TicTacToe and Minesweeper written in Python
+# AI algorithms for Tic-Tac-Toe and Minesweeper written in Python
 
 This repository contains AI implementations for two classic games: Tic-Tac-Toe and Minesweeper. These AI algorithms are designed to play these games effectively, providing both challenge and entertainment.
 
